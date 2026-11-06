@@ -2,7 +2,7 @@
 layout: post
 title: "Hello, world"
 categories: blog
-author: Efficient Neural Systems
+author: LENS
 ---
 
 This is a sample blog post. Write in Markdown; equations work too:

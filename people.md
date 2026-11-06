@@ -8,7 +8,7 @@ permalink: /people/
 
 ## Lab Head
 
-**Nasir Ahmad (DPhil Computational Neuroscience, BSc Honours Physics)** — [Google Scholar](https://scholar.google.co.uk/citations?user=J9HOU6YAAAAJ&hl=nl)
+**Nasir Ahmad (DPhil Computational Neuroscience, BSc Honours Physics)** — [Google Scholar](https://scholar.google.co.uk/citations?user=J9HOU6YAAAAJ&hl=en)
 
 ## Affiliated students 
 
@@ -19,11 +19,11 @@ permalink: /people/
 - **Constantin Boerker**
 - **Justus Huebotter**
 - **Kees Koenders**
-- **Dora Gozukara**
-- **Jesus Garcia Fernandez**
+- **Dora Gözükara**
+- **Jesús García Fernández**
 - **Sander Dalm**
 
-### Masters' Students
+### Master's Students
 - **John Chidiac**
 - **Andrei Vilcan**
 
