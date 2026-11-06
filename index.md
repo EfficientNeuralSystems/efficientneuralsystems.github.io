@@ -5,9 +5,9 @@ title: Home
 
 ## Welcome
 
-The Efficient Neural Systems lab studies ... *(Replace with two or three sentences about the lab's mission and research focus.)*
+The Laboratory for Efficient Neural Systems (LENS) investigates how naturally and artificially intelligent systems can achieve efficiency in inference and training.
 
-We are based at ... *(institution, department, city)*.
+We are based at the Department for Machine Learning and Neural Computing, School of AI, Radboud University, Nijmegen, The Netherlands.
 
 ## Latest news
 
@@ -19,6 +19,3 @@ We are based at ... *(institution, department, city)*.
 
 [All news →](/news/)
 
-## Join us
-
-We are looking for ... *(how to apply, contact email)*.
