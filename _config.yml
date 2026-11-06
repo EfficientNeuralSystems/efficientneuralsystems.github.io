@@ -1,0 +1,28 @@
+title: Efficient Neural Systems
+description: One-line tagline for the lab goes here.
+# logo: /assets/img/logo.png   # uncomment after adding a logo image
+url: "https://efficientneuralsystems.com"
+baseurl: ""
+
+theme: jekyll-theme-minimal
+show_downloads: false
+
+permalink: /:categories/:year/:month/:day/:title/
+
+# Sidebar menu (order matters)
+navigation:
+  - title: Home
+    url: /
+  - title: Research
+    url: /research/
+  - title: People
+    url: /people/
+  - title: Publications
+    url: /publications/
+  - title: News
+    url: /news/
+  - title: Blog
+    url: /blog/
+
+plugins:
+  - jekyll-seo-tag
