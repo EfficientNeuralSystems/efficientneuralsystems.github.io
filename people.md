@@ -13,28 +13,28 @@ permalink: /people/
 ## Affiliated students 
 
 ### PhD Students
-- **Joshua Offergeld**
-- **Paolo Agliati**
-- **Arne Diehl**
-- **Constantin Boerker**
-- **Justus Huebotter**
-- **Kees Koenders**
-- **Dora Gözükara**
-- **Jesús García Fernández**
-- **Sander Dalm**
+- Joshua Offergeld
+- Paolo Agliati
+- Arne Diehl
+- Constantin Boerker
+- Justus Huebotter
+- Kees Koenders
+- Dora Gözükara
+- Jesús García Fernández
+- Sander Dalm
 
 ### Master's Students
-- **John Chidiac**
-- **Andrei Vilcan**
+- John Chidiac
+- Andrei Vilcan
 
 ## Guest Researchers
 - **Menno Hahury**
 
 
 ## Alumni
-- **Noor van de Pas**
-- **Patricia Priscorniță**
-- **Ignas Golubovskis**
+- Noor van de Pas
+- Patricia Priscorniță
+- Ignas Golubovskis
 
 
 

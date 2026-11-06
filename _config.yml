@@ -26,3 +26,6 @@ navigation:
 
 plugins:
   - jekyll-seo-tag
+
+exclude:
+  - SETUP.md
