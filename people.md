@@ -28,7 +28,7 @@ permalink: /people/
 - Andrei Vilcan
 
 ## Guest Researchers
-- **Menno Hahury**
+- Menno Hahury
 
 
 ## Alumni
