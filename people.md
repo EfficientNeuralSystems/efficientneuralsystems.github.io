@@ -16,7 +16,7 @@ permalink: /people/
 - Joshua Offergeld
 - Paolo Agliati
 - Arne Diehl
-- Constantin Boerker
+- Constantin Börker
 - Justus Huebotter
 - Kees Koenders
 - Dora Gözükara
